@@ -11,7 +11,7 @@ We are an independent technology development group, focusing on game development
       <a href="#">
         <img src="https://github.com/Im-Kilroy.png?size=100" width="100px;" alt="Rafael Photo"/><br>
         <sub>
-          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a><b>Kilroy
+          <a href="https://github.com/Im-Kilroy">Rafael Henrique</a><br>Kilroy
         </sub>
       </a>
     </td>
