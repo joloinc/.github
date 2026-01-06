@@ -1,4 +1,4 @@
-# Jooloo Software Inc.
+# Jolo Software Inc.
 
 
 We are an independent technology development group, focusing on game development, physical simulations and software solutions.
