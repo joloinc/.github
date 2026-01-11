@@ -1,7 +1,7 @@
 # Jolo Software Inc.
 
 
-We are an independent technology development group, focusing on game development, physical simulations and software solutions.
+We are an independent technology development group, focusing on game development and software solutions.
 
 ## Cofounders
 
@@ -29,8 +29,7 @@ We are an independent technology development group, focusing on game development
 ## Current Projects
 
 * 2D shooting online game.
-* Game Engine
-* Fluid Simulation in Rust
+* Game Engine.
 
 ## Contact
 
